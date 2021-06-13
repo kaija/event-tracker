@@ -1,2 +1,7 @@
-# event-tracker
-Event tracker is a event forwarder to indicative / segment
+# mercury
+
+This project was generated via [manage-fastapi](https://ycd.github.io/manage-fastapi/)! :tada:
+
+## License
+
+This project is licensed under the terms of the MIT license.
